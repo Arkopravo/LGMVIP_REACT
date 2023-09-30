@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Textutils-react/static/css/main.073c9b0a.css",
-    "main.js": "/Textutils-react/static/js/main.691b6aa8.js",
-    "static/js/787.f6b89c4d.chunk.js": "/Textutils-react/static/js/787.f6b89c4d.chunk.js",
-    "index.html": "/Textutils-react/index.html",
-    "main.073c9b0a.css.map": "/Textutils-react/static/css/main.073c9b0a.css.map",
-    "main.691b6aa8.js.map": "/Textutils-react/static/js/main.691b6aa8.js.map",
-    "787.f6b89c4d.chunk.js.map": "/Textutils-react/static/js/787.f6b89c4d.chunk.js.map"
+    "main.css": "/Arkopravo/Textutils-React/static/css/main.073c9b0a.css",
+    "main.js": "/Arkopravo/Textutils-React/static/js/main.1ef18526.js",
+    "static/js/787.f6b89c4d.chunk.js": "/Arkopravo/Textutils-React/static/js/787.f6b89c4d.chunk.js",
+    "index.html": "/Arkopravo/Textutils-React/index.html",
+    "main.073c9b0a.css.map": "/Arkopravo/Textutils-React/static/css/main.073c9b0a.css.map",
+    "main.1ef18526.js.map": "/Arkopravo/Textutils-React/static/js/main.1ef18526.js.map",
+    "787.f6b89c4d.chunk.js.map": "/Arkopravo/Textutils-React/static/js/787.f6b89c4d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.691b6aa8.js"
+    "static/js/main.1ef18526.js"
   ]
 }
