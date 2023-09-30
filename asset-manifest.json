@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/LGMVIP_REACT/static/css/main.ac1e30d5.css",
-    "main.js": "/LGMVIP_REACT/static/js/main.428a66b6.js",
-    "static/js/787.1e003e7e.chunk.js": "/LGMVIP_REACT/static/js/787.1e003e7e.chunk.js",
-    "index.html": "/LGMVIP_REACT/index.html",
-    "main.ac1e30d5.css.map": "/LGMVIP_REACT/static/css/main.ac1e30d5.css.map",
-    "main.428a66b6.js.map": "/LGMVIP_REACT/static/js/main.428a66b6.js.map",
-    "787.1e003e7e.chunk.js.map": "/LGMVIP_REACT/static/js/787.1e003e7e.chunk.js.map"
+    "main.css": "/Textutils-react/static/css/main.073c9b0a.css",
+    "main.js": "/Textutils-react/static/js/main.691b6aa8.js",
+    "static/js/787.f6b89c4d.chunk.js": "/Textutils-react/static/js/787.f6b89c4d.chunk.js",
+    "index.html": "/Textutils-react/index.html",
+    "main.073c9b0a.css.map": "/Textutils-react/static/css/main.073c9b0a.css.map",
+    "main.691b6aa8.js.map": "/Textutils-react/static/js/main.691b6aa8.js.map",
+    "787.f6b89c4d.chunk.js.map": "/Textutils-react/static/js/787.f6b89c4d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ac1e30d5.css",
-    "static/js/main.428a66b6.js"
+    "static/css/main.073c9b0a.css",
+    "static/js/main.691b6aa8.js"
   ]
 }

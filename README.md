@@ -1,3 +1,0 @@
-# LGMVIP_REACT
-
-LGMVIP
